@@ -1,4 +1,4 @@
-class Criatura { 
+class Criatura {
     var poderMagico
     const astucia
     var rol
